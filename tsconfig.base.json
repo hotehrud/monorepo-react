@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "esnext",
+    "baseUrl": ".",
+    "jsx": "preserve",
+    "moduleResolution": "node",
+  },
+  "exclude": ["**/node_modules", "**/dist"]
+}
